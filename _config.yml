@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+deploy:
+ 
+  type: git
+ 
+  repo: https://github.com/Gavin-dz/Gavin-dz.github.io.git
+ 
+  branch: main
+ 
+​
