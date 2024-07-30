@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": “L84NC2SGFW.cn.softbank.mbank.xjyh2",
+                "paths": ["/*", “/sjyh/*”]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "L84NC2SGFW.cn.softbank.mbank.xjyh2"
+        ]
+    }
+}
